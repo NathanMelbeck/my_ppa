@@ -1,0 +1,14 @@
+Package: mbashnathanlucie
+Version: 1.0
+Architecture: all
+Essential: no
+Maintainer: lucienathan
+Filename: ./packagembash.deb
+Size: 9774
+MD5sum: ddde85ca56093105c69211c4feda46ec
+SHA1: d1e8b3d6ce2938f928c34ed0e16bd14b23dff294
+SHA256: 7d379314f35b0414085fbf12b463d9ce5f0a79239dc2bdd68be07161913983cf
+Section: x11
+Priority: Optional
+Description: sae systeme
+
