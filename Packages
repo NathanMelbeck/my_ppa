@@ -1,3 +1,17 @@
+Package: mbash
+Version: 1.0
+Architecture: all
+Essential: no
+Maintainer: lucienathan
+Filename: ./mbash.deb
+Size: 20280
+MD5sum: b5341457faf30aaa49c1c23ee942ad83
+SHA1: 36c95e4fe9cb5915bd52ef9a0daf26a2d16d8fa5
+SHA256: d5d1dbeeffc8de3974336d7814951d86f5e1a72ab6e38e4a7904ef252a57daf2
+Section: x11
+Priority: optional
+Description: sae systeme
+
 Package: mbashnathanlucie
 Version: 1.0
 Architecture: all
